@@ -1,7 +1,5 @@
-# Chop-note
-SAMPLE – TO BE COMPLETED BY PROVIDER
-Children’s Hospital of Philadelphia (CHOP)
-
+# Chop-
+Children’s Hospital of Philadelphia 
 Date: January 19, 2026
 
 To Whom It May Concern,
@@ -16,7 +14,6 @@ date listed above:
 The above-named patient(s) should be excused from school on this date
 and may return as medically appropriate.
 
-Provider Name: __________________________
+Provider Name: Michela  Mansfeild__________________________
 Signature: ______________________________
-Credentials / License #: _________________
-CHOP Location / Department: ______________
+CHOP Location / Department: Chestnut hill______________
